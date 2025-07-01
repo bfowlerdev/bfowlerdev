@@ -44,7 +44,7 @@ I'm seeking:
 ## 📬 Let's Connect
 
 - Portfolio: [brandonfowler.dev](https://brandonfowler.dev)  
-- Email: [Insert Email Address]  
+- Email: [brandon@brandonfowler.dev](mailto:brandon@brandonfowler.dev)  
 - Open to: Contract, freelance, part-time, remote, or hybrid roles
 
 ---
