@@ -1,3 +1,4 @@
+![Header Banner](./bfowlerdev-banner.png)
 ### 👋 Hi, I'm Brandon Fowler
 
 I'm a returning front-end developer in my 50s, rebuilding my career with a sharpened skill set and modern tools. I previously worked as a full-time developer and spent years freelancing — now I'm using AI, current web tech, and strong design instincts to produce clean, focused digital experiences.
