@@ -1,11 +1,11 @@
 ![Header Banner](./bfowlerdev-banner-image.png)
-### 👋 Hi, I'm Brandon Fowler
+### Hi, I'm Brandon Fowler
 
 A returning front-end dev, rebuilding my career with a sharpened skill set and modern tools. I previously worked as a full-time developer and spent years freelancing — now I'm using AI, current web tech, and strong design instincts to produce clean, focused digital experiences.
 
 ---
 
-## 🧠 Background
+## BACKGROUND
 
 - Former agency Web Developer (2007–2011)
 - Freelance experience with **WordPress**, **Mura CMS**, and **web graphics** (2008–2017)
@@ -17,7 +17,7 @@ A returning front-end dev, rebuilding my career with a sharpened skill set and m
 
 ---
 
-## 🛠 Tech Stack
+## TECH STACK
 
 **Languages & Tools:**  
 HTML • CSS • JavaScript (basic) • WordPress • Git • Photoshop • AI (ChatGPT, Claude)
@@ -27,13 +27,13 @@ PHP • Node.js • Express • React (basics) • Technical SEO • Python
 
 ---
 
-## 🤖 How I Work
+## HOW I WORK
 
 I use AI like ChatGPT and Claude as collaborators — scaffolding ideas, debugging code, and helping me explore new techniques faster. I rely on good prompts, clear intentions, and experience to get high-quality, human-centered results.
 
 ---
 
-## 🔭 What I'm Looking For
+## WHAT I'M LOOKING FOR
 
 I'm seeking:
 - Freelance or remote **Front-End Developer** opportunities  
@@ -42,10 +42,10 @@ I'm seeking:
 
 ---
 
-## 📬 Let's Connect
+## LET'S CONNECT
 
 - Portfolio: [brandonfowler.dev](https://brandonfowler.dev)  
-- Email: [brandon@brandonfowler.dev](mailto:brandon@brandonfowler.dev)  
+- Email: [fowler.jobs@gmail.com](mailto:fowler.jobs@gmail.com)
 - Open to: Contract, freelance, part-time, remote, or hybrid roles
 
 ---
