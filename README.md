@@ -1,4 +1,4 @@
-![Header Banner](./bfowlerdev-banner.png)
+![Header Banner](./bfowlerdev-banner-image.png)
 ### 👋 Hi, I'm Brandon Fowler
 
 A returning front-end dev, rebuilding my career with a sharpened skill set and modern tools. I previously worked as a full-time developer and spent years freelancing — now I'm using AI, current web tech, and strong design instincts to produce clean, focused digital experiences.
